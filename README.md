@@ -16,9 +16,20 @@ Missed a session or want to watch it again? Recordings are added here after each
 |---|---|
 | _Coming after the first session_ | |
 
-## Download the slides
+## Set up your lab (do this before you join)
 
-**[02_Python_for_AI_ML_Free_Live_Session.pdf](slides/02_Python_for_AI_ML_Free_Live_Session.pdf)** (PDF)
+Want to code along? Follow **[SETUP.md](SETUP.md)**. It takes about 15 minutes, once, and works on any computer (or right in your browser with GitHub Codespaces).
+
+## Downloads
+
+Everything you need is in the [`downloads`](downloads) folder:
+
+| File | What it is |
+|---|---|
+| [02_Python_for_AI_ML_Free_Live_Session.pdf](downloads/02_Python_for_AI_ML_Free_Live_Session.pdf) | The session slides (PDF) |
+| [02_Python_for_AI_ML_SETUP_GUIDE.pdf](downloads/02_Python_for_AI_ML_SETUP_GUIDE.pdf) | The setup guide (PDF version of SETUP.md) |
+| [python-for-ai-ml-repo.zip](downloads/python-for-ai-ml-repo.zip) | The lab files (unzip, then follow SETUP.md) |
+
 
 ## What you'll learn
 
@@ -34,7 +45,7 @@ Missed a session or want to watch it again? Recordings are added here after each
 
 ## Try it yourself
 
-Get the hands-on labs here: [python-for-ai-ml](https://github.com/Here2ServeU/python-for-ai-ml)
+To get the lab files, download **[python-for-ai-ml-repo.zip](downloads/python-for-ai-ml-repo.zip)** from the downloads folder (see [SETUP.md](SETUP.md)).
 
 **Module 1 · Python That Runs Anywhere**: The commands you'll type in every project
 
